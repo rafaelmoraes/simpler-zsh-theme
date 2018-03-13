@@ -3,7 +3,7 @@ Inspired by [purity theme](https://github.com/petermbenjamin/purity)
 
 ## Install
 
-```bash
+```console
 git clone https://github.com/rafaelmoraes/simpler-zsh-theme
 mkdir -p $HOME/.oh-my-zsh/custom/themes
 cp ./simpler-zsh-theme/simpler.zsh-theme $HOME/.oh-my-zsh/custom/themes
